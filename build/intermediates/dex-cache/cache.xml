@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lukefan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\lukefan\AndroidStudioProjects\Luxand Face Recognition_Original\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-eb1a0f49a5161b839c8f048dd4fe7940ebf3a9f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\lukefan\AndroidStudioProjects\Luxand Face Recognition_Original\app\build\intermediates\exploded-aar\Luxand Face Recognition_Original\aFileChooser\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3fab8400306fa93ee7f585e33d4ba840a2bb41e8">
+        <dex dex="C:\Users\lukefan\AndroidStudioProjects\Luxand Face Recognition_Original\app\build\intermediates\pre-dexed\debug\classes-4963ddc4e96cd4bb227932696921598db77c8489.jar" />
+    </item>
+
+</items>
